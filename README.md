@@ -1,70 +1,93 @@
-# Getting Started with Create React App
+<p align="center">
+  <img alt="Tamanho do Repositório" src="https://img.shields.io/github/repo-size/ErichComparin/Formul-rio-ReactJS?style=flat-square" />
+  
+  <img alt="Último commit" src="https://img.shields.io/github/last-commit/ErichComparin/Formul-rio-ReactJS?style=flat-square" />
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+  <a href="https://github.com/ErichComparin">
+    <img alt="Feito por Erich Comparin" src="https://img.shields.io/badge/feito%20por-Erich%20Comparin-orange?style=flat-square" />
+  </a>
 
-## Available Scripts
+  <a href="./LICENSE">
+    <img href="Licença MIT" src="https://img.shields.io/apm/l/vim-mode?style=flat-square" />
+  </a>
+</p>
 
-In the project directory, you can run:
+<h1 align="center">
+    ⌨️ Formulário ⌨️
+</h1>
 
-### `yarn start`
+<!-- 🚧🚧 Em construção 🚧🚧 -->
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+<p align="center">
+ <a href="#-sobre-o-projeto">Sobre</a> •
+ <a href="#️-status">Status</a> •
+ <a href="#-layout">Layout</a> • 
+ <a href="#-como-executar-o-projeto">Como executar</a> • 
+ <a href="#-tecnologias">Tecnologias</a> •
+ <a href="#-autor">Autor</a> • 
+ <a href="#-licença">Licença</a>
+</p>
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+## 💻 Sobre o projeto
 
-### `yarn test`
+Formulário criado com ReactJS exemplificando Hooks e MaterialUI.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+---
 
-### `yarn build`
+## 🏃‍♂️ Status
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- [x] Concluído
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+---
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## 🎨 Layout
 
-### `yarn eject`
+- Tela principal
+<img alt="Tela principal" src="./readme/web1.jpg?raw=true">
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+---
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## 🚀 Como executar o projeto
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+```bash
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+# Clone este repositório
+$ git clone https://github.com/ErichComparin/Formul-rio-ReactJS
 
-## Learn More
+# Iniciar o projeto
+$ npm start
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+```
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+---
 
-### Code Splitting
+## 🛠 Tecnologias
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+As seguintes tecnologias/ferramentas foram usadas na construção do projeto:
 
-### Analyzing the Bundle Size
+-   **[ReactJS](https://pt-br.reactjs.org/)**
+-   **[Hooks - State](https://pt-br.reactjs.org/docs/hooks-state.html)**
+-   **[MaterialUI](https://material-ui.com/pt/)**
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+---
 
-### Making a Progressive Web App
+## 🧔 Autor
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+<img alt="Erich Comparin" src="https://avatars1.githubusercontent.com/u/49964553?s=460&u=cbfeb4a52528866ecd92b23fb86afa9bf1cc4ee2&v=4" width="120px"/>
 
-### Advanced Configuration
+**Erich Comparin**
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+[![Linkedin Badge](https://img.shields.io/badge/-Erich_Comparin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=ttps://www.linkedin.com/in/erich-comparin-6923119b/)](https://www.linkedin.com/in/erich-comparin-6923119b/) [![Github Badge](https://img.shields.io/badge/-Erich_Comparin-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/ErichComparin)](https://github.com/ErichComparin) [![Gmail Badge](https://img.shields.io/badge/-erich.comparin@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:erich.comparin@gmail.com)](mailto:erich.comparin@gmail.com)
 
-### Deployment
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+## 📝 Licença
 
-### `yarn build` fails to minify
+Copyright © 2020 [Erich Comparin](https://github.com/ErichComparin).<br />
+This project is [MIT](./LICENSE) licensed.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+---
+
+##  Versões do README
+
+[Português 🇧🇷](./README.md)
