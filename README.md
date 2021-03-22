@@ -54,6 +54,9 @@ Formulário criado com ReactJS exemplificando Hooks e MaterialUI.
 # Clone este repositório
 $ git clone https://github.com/ErichComparin/Formul-rio-ReactJS
 
+# Instalar dependências
+$ npm install
+
 # Iniciar o projeto
 $ npm start
 
